@@ -13,8 +13,9 @@ Your JAM Project
 
 ## Know about the DOM 
 
-What is the Document Object Model in JavaScript? [Know about it here](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
+What is the Document Object Model in JavaScript? [Know about it here](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)   
 
+Read and implement [this](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/).  
 
 ### ← README.md
 

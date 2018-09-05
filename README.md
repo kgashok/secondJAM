@@ -36,7 +36,3 @@ If you're feeling fancy you can add interactivity to your site with JavaScript.
 
 Drag in `assets`, like images or music, to add them to your project
 
-Made by [Fog Creek](https://fogcreek.com/)
--------------------
-
-\ ゜o゜)ノ
